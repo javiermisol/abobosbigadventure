@@ -1,0 +1,191 @@
+[DEBREATE-0.7.13]
+<<CTRL>>
+Package: adobopclx
+Version: 1.0
+Maintainer: Team Bobo <info@abobosbigadventure.com>
+Section: games
+Homepage: http://www.abobosbigadventure.com
+Architecture: amd64
+Priority: optional
+Depends: ruffle
+Description: Abobo's Big Adventure
+ Abobo's Big Adventure is a parody game which pays tribute to the 8-bit glory days of the Nintendo Entertainment System (NES).
+ .
+ The development of the game began way back in 2002 when Roger Barr set out to have Abobo fight his way through a variety of classic NES games in search of his lost son, Aboboy. Roger teamed up with a programmer who went by the name "Bane" at the time and they started putting the first levels together. Unfortunately, the Abobo game kept getting sidetracked due to each of them working on other game projects at the same time (including Domo-Kun's Angry Smashfest).
+ .
+ The Abobo project stayed on the backburner for years, but Roger always hoped to return to it eventually. He was lucky enough to meet Nick and Luis who both shared a love for classic 8-bit games and stuffing games full of ridiculous humor. After working on some other games like "Trick or Treat Adventure Quest" together, the three of them started to recreate the original Abobo game from scratch in 2006. Nick worked up a whole new game system, Pox recreated the existing graphics and Roger developed a big story for Abobo to really dive into... fists first. It was a daunting project, but like all labors of love, it's something that simply had to be done.
+ .
+ .
+ For those of you wondering if the game will be for sale, the answer is NO. Abobo's Big Adventure is simply a labor of love and will be available to play for free on the web. The game really pushes the limits of what Flash is capable of and you will soon have control of the most unappreciated, brutal, rage-fueled character in the entire pixelated universe in your hands.
+ .
+ -Team Bobo
+ .
+ .
+ .
+ Not only does Abobo have to fight through these classic games, but he has to adapt to their varying gameplay styles. Gameplay ranges from beatemup, to underwater platformer, to side-scroller, to top-down dungeon crawler, wrestling, run-and-gun, boxing, and MOAR!
+ .
+ Oh, and did we mention BOSSES?! Mini-bosses, medium bosses, large bosses, and ultra-huge multi-stage bosses will assault you at every step of your journey.
+ .
+ Abobo's path is a long and hard one, he'll encounter more enemies than any single character has ever had to fight, but this is Abobo we're talking about here. He has the heart of a lion... probably because he actually punched a lion and ate its heart!
+ .
+ Abobo will stop at nothing to save his beloved son, Aboboy. Are you ready to unleash his rage into this violent world of pixelated foes? You better be. If you're not, Abobo may pummel you too.
+
+<</CTRL>>
+<<FILES>>
+1
+/home/javiermisol/Descargas/aba_PC/pixmaps/abobo.png* -> abobo.png -> /usr/share/pixmaps
+/home/javiermisol/Descargas/aba_PC/aba_PC/NES.cfg* -> NES.cfg -> /usr/share/games/abaPC
+/home/javiermisol/Descargas/aba_PC/aba_PC/abobo.swf* -> abobo.swf -> /usr/share/games/abaPC
+<</FILES>>
+<<SCRIPTS>>
+<<PREINST>>
+0
+<</PREINST>>
+<<POSTINST>>
+0
+<</POSTINST>>
+<<PRERM>>
+0
+<</PRERM>>
+<<POSTRM>>
+0
+<</POSTRM>>
+<</SCRIPTS>>
+<<CHANGELOG>>
+<<DEST>>DEFAULT<</DEST>>
+Instead of using gnash as a swf viewer we will rely on ruffles.
+
+<</CHANGELOG>>
+<<COPYRIGHT>>
+Contents:
+
+-About The Game
+-Controls
+-Saving Games
+-How To Play With A Gamepad
+-Contact Info / Feedback / Report Bugs
+-Unlockables
+-Two-Player Mode
+-Hints
+
+
+
+=====ABOUT THE GAME=====
+
+
+Abobo's Big Adventure is a project that we have been working on for YEARS as a true labor of love with one goal in mind: To create the ultimate tribute to the NES! This gargantuan 8-bit parody game is made for the fans by the fans, and now you finally have the chance to control the angriest character in the known universe - Abobo!
+
+The story is simple - Abobo's son (Aboboy) has been kidnapped and now it's up to you to help Abobo fight his way through some of the greatest NES games of all time in order to rescue him. This isn't your average 8-bit parody game either... not only is each level a completely different game in which Abobo takes on the characteristics of the main protagonist, but enemies from a wide variety of *other* games appear on each level too! Imagine you could put every NES game ever made into a blender and that's basically what you're dealing with here in the form of a huge Flash game.
+
+We've added in a ton of custom artwork, cutscenes, new rage moves on each level, huge boss battles, secrets, and a whopping 100 medals for you to unlock! In addition to that, we've created what we consider to be the most satisfying ending of any game you'll ever see. Sure, on classic NES games they often rewarded you with a simple "Congratulations! Game Over." after you spent hours working your way towards the end. That's not the case here - we've worked up one big ending that you'll remember for the rest of your life! Plus, when you beat the game, you'll unlock even more goodies to play with!
+
+You'll also be happy to learn that we've created a convenient Level Select screen which automatically unlocks levels as you beat them. You don't have to beat the game in one sitting... you can always come back and use the Level Select to pick up right where you left off. You can also use it to replay any level if you need to try to unlock additional medals that you missed out on during your first play-through.
+
+Last but not least, if you enjoy this massive game project of ours, please consider making a donation to our indie cause. We've put a lot of blood, sweat, and tears into this game (mainly because Abobo kept punching us throughout its development), so your donations would be greatly appreciated and will go towards our creating future games and/or paying our hospital bills from Abobo's constant beatings. PLUS - as a token of our appreciation, anybody who makes a donation will also receive a free copy of our 100% original new mini-game, Aboboy's Small Adventure! Donate at: http://www.abobosbigadventure.com/donate.php
+
+In closing, we'd like to thank all of our friends, families, and Newgrounds for their unwavering support over the years as we've continued to work on this huge project. It really meant the world and helped us make Abobo's Big Adventure something truly special. It's hard to imagine that this project started out all the way back in 2002... Abobo sure has come a long way with his angry fists. Thanks for playing our game and making this 8-bit dream come true.
+
+-Team Bobo
+http://www.abobosbigadventure.com
+
+
+=====CONTROLS=====
+
+
+ARROW KEYS = MOVE
+"A" KEY = ACTION 1
+"S" KEY = ACTION 2
+"A + S" KEYS = EXECUTE RAGE MOVE (when "Rage-O-Meter" is full)
+"P" = Pause
+"M" = Return to main menu at any time!
+"F" = Toggle Fullscreen Mode
+
+
+=====SAVING GAMES=====
+
+
+Abobo's Big Adventure automatically saves your progress. Whenever you reach a new level, it is permanently unlocked. If you close the game, whenever you open it again, you can pick up at the level you last left off at by choosing "Level Select" from the main menu.
+
+***Important***: If you clear cookies on your computer, you will lose your save game progress, so please keep this in mind before you clear your temporary internet files.
+
+
+=====HOW TO PLAY WITH A GAMEPAD=====
+
+
+We recommend playing Abobo's Big Adventure with a genuine NES controller. You can purchase USB adapters for NES controllers from any number of web sites.
+
+We have created a tutorial on how to use a Gamepad to play Abobo's Big Adventure here: http://www.abobosbigadventure.com/gamepad.php
+
+
+=====CONTACT INFO / FEEDBACK / REPORTING BUGS=====
+
+
+If you have any feedback about the game or bugs to report, please contact info@abobosbigadventure.com or visit http://www.abobosbigadventure.com/contact.php
+
+To keep up with all Abobo-related news, please visit abobosbigadventure.com or follow us on Facebook at: http://www.facebook.com/abobosbigadventure
+
+Be sure to send us any photos / videos of you playing Abobo's Big Adventure!
+
+
+=====UNLOCKABLES=====
+
+
+Once you've beaten the game, there's still more to play! Be sure to visit the unlockables section to find some special mini-games that you have unlocked. If you beat one of the games, you'll be given access to a special Abobo's Big Adventure poster you can download!
+
+
+=====TWO-PLAYER MODE=====
+
+
+***Please note this contains spoilers***
+
+While the entire game cannot be played by two players, we did include an unlockable two-player co-op mode on one level. Once you reach level 7, try entering the classic code "up, up, down, down, left, right, left, right, s, a." This will enable a two-player mode so you and a friend can go to war together!
+
+
+=====HINTS=====
+
+
+The following information will help you in some of the areas of the game where most people seem to get stuck.
+
+Please keep in mind that these contain spoilers and we strongly recommend trying to figure things out on your own. After all, that's what playing classic NES games was all about.
+
+
+Hint #1: Should you ever encounter a mermaid, think about being nice to her. She may reward you with a special force field.
+
+Hint #2: If you're stuck in the dungeon with seemingly nowhere you can go to get the key, there's a room with a block that is sparkling for a reason. Try pushing it in a certain direction!
+
+Hint #3: With practice, most people can beat the balloon level without dying more than once or twice. However, if you're one of the few who simply can't beat it, you shoud know that we unveil a secret tip after you finish the level. The secret is that if you press the "1" key on your keyboard at the start of the balloon level, you will be instantly transported to the boss fight without having to beat the level.
+
+Hint #4: When wrestling the Amazon, the best way to do damage to him is to grapple with him and then try pressing button combinations. For example: Down + A = Piledriver. These moves do far more damage than simple punches and kicks. Also, should you get tossed outside of the ring, there are chairs that you can hit him with once on the left and right sides of the ring.
+
+Hint #5: When fighting Robobobo, save up your rage rather than using it on him. He's a relatively easy boss, and you'll want to be able to use your rage move once he's transformed into the giant Mechabobo instead.
+
+Hint #6: When fighting Mac, dodge his attack and respond quickly with a spin punch to stun him. Once he's stunned, you can hit him with harder punches by trying different combinations. For example: Up + A = Uppercut.
+
+
+
+Thanks again for playing!
+
+-Team Bobo
+http://www.abobosbigadventure.com
+
+
+<</COPYRIGHT>>
+<<MENU>>
+1
+Name=Abobo's Big Adventure
+Version=1.0
+Exec=ruffle /usr/share/games/abaPC/abobo.swf
+Comment=The ultimate tribute to the NES
+Icon=/usr/share/pixmaps/adobo.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Game;
+<</MENU>>
+<<BUILD>>
+1
+1
+1
+strip
+<</BUILD>>

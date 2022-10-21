@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Abobo's Big Adventure
+Version=1.0
+Exec=ruffle /usr/share/games/abaPC/abobo.swf
+Comment=The ultimate tribute to the NES
+Icon=/usr/share/pixmaps/adobo.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Game;

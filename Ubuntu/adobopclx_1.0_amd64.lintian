@@ -1,0 +1,25 @@
+W: adobopclx: copyright-without-copyright-notice
+W: adobopclx: desktop-command-not-in-package usr/share/applications/Abobo's_Big_Adventure.desktop ruffle
+W: adobopclx: executable-not-elf-or-script usr/share/games/abaPC/NES.cfg
+W: adobopclx: executable-not-elf-or-script usr/share/games/abaPC/abobo.swf
+W: adobopclx: executable-not-elf-or-script usr/share/pixmaps/abobo.png
+W: adobopclx: extended-description-contains-empty-paragraph
+W: adobopclx: extended-description-line-too-long line 1
+W: adobopclx: extended-description-line-too-long line 14
+W: adobopclx: extended-description-line-too-long line 16
+W: adobopclx: extended-description-line-too-long line 18
+W: adobopclx: extended-description-line-too-long line 20
+W: adobopclx: extended-description-line-too-long line 3
+W: adobopclx: extended-description-line-too-long line 5
+W: adobopclx: extended-description-line-too-long line 8
+W: adobopclx: non-standard-dir-perm usr/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/applications/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/doc/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/doc/adobopclx/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/games/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/games/abaPC/ 0775 != 0755
+W: adobopclx: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
+W: adobopclx: non-standard-file-perm usr/share/applications/Abobo's_Big_Adventure.desktop 0664 != 0644
+W: adobopclx: non-standard-file-perm usr/share/doc/adobopclx/changelog.gz 0664 != 0644
+W: adobopclx: non-standard-file-perm usr/share/doc/adobopclx/copyright 0664 != 0644
